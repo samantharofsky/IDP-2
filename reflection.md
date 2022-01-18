@@ -1,0 +1,1 @@
+In this project, I focused on learning how to use conditionals. The initial version of this project was a countdown to winter break 2021, but I have since changed it to be a countdown to 2023. I did this because I had an incorrect equasion in my code and because I wanted to do something in the future so that the numbers would not be in the negatives. 
